@@ -1,0 +1,78 @@
+.navbar
+
+{background-color: #efefef !important ; }
+
+.navbar1
+{background-color: #90a4ae !important;}
+
+.nav-link
+{
+    font-weight: bold !important;
+}
+
+.slider
+
+{height: 80px; width: 100%;}
+
+.fa-facebook-official
+
+{ font-size: 18px !important;  color:blue !important; }
+
+.fa-instagram
+
+{ font-size: 18px !important;  color: purple !important; }
+
+.fa-envelope
+
+{ font-size: 18px !important;  color :white-space  !important; border: red!important; }
+
+.fa-twitter
+{ font-size: 18px !important;  color:blue !important; }
+
+.fa-whatsapp
+{ font-size: 18px !important;  color: green !important; }
+.fa-user-plus
+{ font-size: 18px !important;   }
+.fa-sign-in
+{ font-size: 18px !important;   }
+.fa-shopping-cart
+{ font-size: 18px !important;   }
+.navbar-text1
+
+{ padding-right:200px ; padding-left: 100px; color: white; }
+
+h3
+{  padding-left: 130px; background-color:#efefef !important  ;}
+.blank
+{ height: 30px; }
+.btn-primary
+{  background-color: #90a4ae !important; margin:auto ;  position: ;  }
+#row1
+
+{ background-color:#efefef !important  ; }
+
+.card
+{ height:400px ;}
+
+#nav2
+{height: 50px !important;}
+
+#cardcat
+{ height: 300px; width: ; }
+
+#foot
+{ color:black !important; }
+.jumbotron
+{ background-color: white !important  ; }
+.container
+
+{ background-color:#efefef !important  ; }
+
+#conform
+
+{ width: 500px; }
+
+.sidenav
+{
+    height: 600px; width: 300px; background-color:#90a4ae ;
+}
